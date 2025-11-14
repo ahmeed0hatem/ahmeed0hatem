@@ -1,4 +1,4 @@
-# Hey there, I'm Ahmed! 👋
+# Hey there, I'm Ahmed (Baguette)! 👋
 
 
 
@@ -36,7 +36,7 @@ My brain: "We should focus." Also my brain: "Let’s reorganize all your folders
 # 🤡
 
 
-#✨ Random Quote That Sounds Wise
+# ✨ Random Quote That Sounds Wise
 
 "Direction is more important than speed… unless you're an electron."
 
